@@ -20,6 +20,9 @@ What are the interesting topics the researchers are doing and how?
 pip install beautifulsoup
 pip install Corpus
 pip install nltk
+pip install requests
+pip install gensim
+pip install texthero
 
 ```
 ## Credits
