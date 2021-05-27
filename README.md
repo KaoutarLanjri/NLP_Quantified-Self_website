@@ -27,5 +27,5 @@ pip install texthero
 ```
 ## Credits
 
-Bastian Greshake Tzovaras Long Term Fellow CRI Paris for  the dataset
-The Quantified Self website https://quantifiedself.com/ for data
+- Bastian Greshake Tzovaras Long Term Fellow CRI Paris for  the dataset
+- The Quantified Self website https://quantifiedself.com/ for data
