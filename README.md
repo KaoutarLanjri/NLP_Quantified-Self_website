@@ -26,4 +26,6 @@ pip install texthero
 
 ```
 ## Credits
-techniques for web scrawling. Github: @/nicknochnack
+
+Bastian Greshake Tzovaras Long Term Fellow CRI Paris for  the dataset
+The Quantified Self website https://quantifiedself.com/ for data
